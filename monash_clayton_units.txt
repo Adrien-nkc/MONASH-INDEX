@@ -1,0 +1,1410 @@
+MONASH UNIVERSITY CLAYTON - ALL UNDERGRADUATE UNITS
+=====================================================
+Total: 1386 units (as provided)
+Source: monash.edu/study - Clayton Campus, Undergraduate, 2026
+
+FACULTY MAPPING BY PREFIX:
+- FIT, ECE, TRC, MAE, EEH → Engineering & IT
+- ENG, CIV, CHE, MTE, ENE, RSE, MEC → Engineering (Civil, Chemical, Materials, Environmental, Mining, Mechanical)
+- BIO, BMS, BCH, CHM, MCB, GEN, IMM, MIC, PHA, PHY, DEV, HUP, EAE, ASP, PHS, STA, SCI → Science
+- MED, NUR, NUT, RAD, RTS, MHS, MIS → Medicine, Nursing & Health
+- PSY → Psychology
+- ECC, ECF, ECX, ETC, ACC, BFC, BFX, BTC, BTX, MGC, MGX, MKC, MKX, BEX, BRU → Business & Economics
+- LAW → Law
+- EDF, ADS → Education & Data Science
+- ATS → Arts, Humanities & Social Sciences
+- MTH, MAT → Mathematics & Statistics
+- CLI, ENV, MON → Cross-disciplinary / General
+
+=====================================================
+FULL UNIT LIST
+=====================================================
+
+ACC1001 Accounting fundamentals
+ACC1100 Introduction to financial accounting
+ACC2100 Financial accounting
+ACC2200 Introduction to management accounting
+ACC2400 Accounting information systems
+ACC3100 Advanced financial accounting
+ACC3200 Management accounting
+ACC3600 Auditing and assurance
+ACX2900 Accounting for sustainability
+ACX3150 Financial analysis and valuation
+ACX3900 Global issues in accounting
+ADS1001 Data challenges 1
+ADS1002 Data challenges 2
+ADS2001 Data challenges 3
+ADS2002 Data challenges 4
+ADS3001 Advanced data challenges
+ADS4001 Research methods in data science
+ADS4010 Frontiers of data science
+ADS4100 Industry research project
+APG5155 Designing research in the humanities and social sciences
+APG5554 Resource evaluation and management
+APG5856 Research project
+ASP1010 Earth to cosmos: Introductory astronomy
+ASP1022 Life in the universe: Astrobiology
+ASP2011 Astronomy
+ASP2062 Introduction to astrophysics
+ASP3012 Stars and galaxies
+ASP3051 Relativity and cosmology
+ASP3162 Computational astrophysics and the extreme universe
+ASP3231 Observational astronomy
+ASP4000 Astrophysics research project
+ASP4100 Astrophysics honours research project
+ASP4110 Astrophysics honours research project A
+ASP4120 Astrophysics honours research project B
+ASP4200 Astrophysics honours coursework
+ASP4210 Astrophysics honours coursework A
+ASP4220 Astrophysics honours coursework B
+ATS1001 Chinese introductory 1
+ATS1002 Chinese introductory 2
+ATS1020 Global problems
+ATS1044 Performance 1
+ATS1045 Performance 2
+ATS1046 Composition and music technology: Introduction to music composition
+ATS1047 Composition and music technology 2: Materials of composition
+ATS1050 Big ideas in politics, philosophy and economics
+ATS1052 Global mobilities
+ATS1053 Strategic reasoning in politics, philosophy and economics
+ATS1055 Introduction to health humanities
+ATS1056 Geopolitical security in the Indo-Pacific
+ATS1057 Introduction to Philosophy: The meaning of life
+ATS1058 Deconstructing homicide
+ATS1059 The writer's journey: Foundational forms of creative writing
+ATS1061 French introductory 1
+ATS1062 French introductory 2
+ATS1069 Exploring theatre and performance studies
+ATS1070 Intercultural theatre and performance
+ATS1071 Political theory in a changing world: Concepts, issues and debates
+ATS1072 Popular music 1
+ATS1073 Popular music 2
+ATS1091 German introductory 1
+ATS1092 German introductory 2
+ATS1111 Indonesian Introductory 1
+ATS1112 Indonesian Introductory 2
+ATS1141 Japanese introductory 1
+ATS1142 Japanese introductory 2
+ATS1171 Korean introductory 1
+ATS1172 Korean introductory 2
+ATS1191 Spanish introductory 1
+ATS1192 Spanish introductory 2
+ATS1221 Italian introductory 1
+ATS1222 Italian introductory 2
+ATS1247 Introducing archaeology and ancient history 1
+ATS1248 Introducing archaeology and ancient history 2
+ATS1250 Social justice and Indigenous Australians
+ATS1254 Culture, power and difference: Indigeneity and Australian identity
+ATS1255 Encountering cultures: Introduction to anthropology 1
+ATS1261 Understanding human behaviour
+ATS1262 Understanding social behaviour
+ATS1264 Ethics, health and justice
+ATS1279 Media and culture
+ATS1280 Understanding the media
+ATS1297 Academic writing
+ATS1298 Professional writing
+ATS1304 Introduction to television studies
+ATS1305 Introduction to film studies
+ATS1309 The geography of global challenges
+ATS1310 Extreme earth! The geography of disasters
+ATS1314 Introduction to international human rights
+ATS1315 Human rights and social justice
+ATS1319 Global Asia
+ATS1338 Cracking the language code: English and beyond
+ATS1339 Linguistic structure and language diversity
+ATS1345 Music across time
+ATS1346 Music across place
+ATS1347 Ensemble studies 1
+ATS1348 Ensemble studies 2
+ATS1365 Introduction to sociology
+ATS1366 Big ideas for better futures
+ATS1396 Drug cultures
+ATS1420 The global crime problem
+ATS1421 Understanding crime
+ATS1422 Crime prevention and crime control
+ATS1423 Criminal justice in practice
+ATS1610 The making of the modern world, 1750 to the present
+ATS1611 The Medieval and Early Modern world, 1050-1750
+ATS1665 Gender, self and society
+ATS1666 Gender, identity and power
+ATS1835 Introduction to Philosophy: Knowledge, freedom and the self
+ATS1873 Introduction to international relations
+ATS1899 Music theory and ear training 1
+ATS1900 Music theory and ear training 2
+ATS1903 Introducing literature: Ways of reading
+ATS1905 Chinese introductory for background speakers 1
+ATS1906 Chinese introductory for background speakers 2
+ATS1940 Chinese translation 2: Enhancing bilingual and cross-cultural competence
+ATS1945 Issues in Australian politics and government
+ATS1959 Chinese translation 1: Building bilingual and cross-cultural competence
+ATS2000 From Freud to Friends: Ethnic identity in popular culture
+ATS2001 Chinese introductory 1
+ATS2002 Chinese introductory 2
+ATS2003 Chinese intermediate 1
+ATS2004 Chinese intermediate 2
+ATS2005 Chinese proficient 1
+ATS2006 Chinese proficient 2
+ATS2040 Understanding contemporary China
+ATS2043 Chinese translation for professional purposes 1: Stylistic approaches to translation
+ATS2044 Chinese translation for professional purposes 2: Problem solving in translation
+ATS2056 Crime and inequality
+ATS2057 Genocide
+ATS2060 The art of teaching music practice
+ATS2063 French intermediate 1
+ATS2064 French intermediate 2
+ATS2065 French proficient 1
+ATS2066 French proficient 2
+ATS2084 Ancient mythologies
+ATS2086 Global agency and collective action
+ATS2093 German intermediate 1
+ATS2094 German intermediate 2
+ATS2095 German proficient 1
+ATS2096 German proficient 2
+ATS2106 An environmental history of the world: People and our planet
+ATS2113 Indonesian Intermediate 1
+ATS2114 Indonesian Intermediate 2
+ATS2122 Performance 3
+ATS2123 Performance 4
+ATS2127 Composition and music technology 3: Spatial composition and sound design
+ATS2128 Composition and music technology 4: Composition for screen
+ATS2139 Song writing: How to write a popular song
+ATS2141 Japanese introductory 1
+ATS2142 Japanese introductory 2
+ATS2143 Japanese intermediate 1
+ATS2144 Japanese intermediate 2
+ATS2145 Japanese proficient 1
+ATS2146 Japanese proficient 2
+ATS2159 Recording and computer music production
+ATS2160 Korea: Language, people and culture
+ATS2171 Korean introductory 1
+ATS2172 Korean introductory 2
+ATS2173 Korean intermediate 1
+ATS2174 Korean intermediate 2
+ATS2184 Intercultural skills for an internationalised workplace
+ATS2185 Who wrote the Bible and why?
+ATS2193 Spanish intermediate 1
+ATS2194 Spanish intermediate 2
+ATS2195 Spanish proficient 1
+ATS2196 Spanish proficient 2
+ATS2199 The inhuman body in the human world: Corporations and contemporary culture
+ATS2200 Victorian literature
+ATS2202 Monsters in popular culture
+ATS2210 Policy analysis in politics, philosophy and economics
+ATS2211 Understanding workplace innovation
+ATS2213 Imagining Europe
+ATS2220 Screening Europe: Transnational histories, narratives and identities
+ATS2223 Italian intermediate 1
+ATS2224 Italian intermediate 2
+ATS2225 Italian proficient 1
+ATS2226 Italian proficient 2
+ATS2256 The mind, the self and political behaviour
+ATS2257 Bingeing to branding: Television in the age of streaming
+ATS2262 Philosophical traditions
+ATS2266 Living a meaningful life: Wisdom traditions and their contemplative practices
+ATS2267 True happiness: The art, practice and science of human flourishing
+ATS2268 Four lost cities of the Ancient World
+ATS2269 Contemporary Australia and its cultures: Peoples, places, identities
+ATS2272 Popular music 3
+ATS2273 Popular music 4
+ATS2274 Languages, cultures and interaction in Asia
+ATS2277 Artefacts, objects and remains: Making sense of archaeological sites
+ATS2280 Video games: Industry and culture
+ATS2283 The archaeology of empires
+ATS2284 Agency, advocacy and activism in performance
+ATS2292 The ethics of artificial intelligence
+ATS2293 China under Mao: The party, state, and society
+ATS2294 Death, dying and narrative
+ATS2298 From terrorism to revolution: Understanding political violence
+ATS2319 Public policy: Practice and impact
+ATS2321 International political economy
+ATS2326 Youth social change and justice
+ATS2327 Seeing ourselves on screen: Diversity and representation in film and television
+ATS2333 Jazz movements and cultures
+ATS2338 Philosophy of the social world
+ATS2339 Philosophy of Art
+ATS2341 Asian popular cultures: Bollywood, manga, hallyu and beyond
+ATS2349 The golden age of Athens
+ATS2351 The archaeology of death in ancient Egypt
+ATS2354 Interrogating racism: Indigenous Australians and the state
+ATS2359 Hearing the country: Studies in Indigenous Australian ethnoecology
+ATS2371 Magic, science and religion
+ATS2378 Global inequality and alternatives to development
+ATS2400 Personality: Beyond the persona
+ATS2422 Romanticism and reason in the long eighteenth century
+ATS2440 The public sphere
+ATS2456 Cybercrime and cybersecurity
+ATS2457 Crime, media and culture
+ATS2458 Policing
+ATS2469 Victims, justice and the law
+ATS2492 Reading the past: Shakespearean drama
+ATS2519 Children's and young adult literature
+ATS2530 Film and television genres
+ATS2538 Film and television industries and technologies: key contexts
+ATS2548 Climate and environmental policy and management
+ATS2551 Writing resistance: Understanding the power of Indigenous story-telling through literature
+ATS2552 Crime and justice policy
+ATS2553 Indigenous justice in Australia
+ATS2555 Foundations in researching crime and justice
+ATS2556 Power struggles: anti-colonialism and anti-racism in history
+ATS2560 Breaking binaries: How gender is lived and theorised
+ATS2561 Sex and the media
+ATS2595 The rise and fall of Nazi Germany
+ATS2600 The Holocaust
+ATS2620 Modern Japan: From Samurai to Pokemon
+ATS2624 Global governance
+ATS2625 Mobile worlds: Borders, displacement and belonging
+ATS2628 Global inequality and international development
+ATS2633 Global cities: Past, present and future
+ATS2637 Global bioethics
+ATS2640 The ethics of global conflict
+ATS2648 Contemporary Japan
+ATS2668 Structure in the languages of the world
+ATS2669 Phonetics and phonology: The science of speech sounds
+ATS2671 Managing intercultural communication
+ATS2716 Race, racism and social inequalities
+ATS2718 Love, families, and relationships
+ATS2723 Social research methods
+ATS2727 Men, masculinity and society
+ATS2743 Build your career: Planning and strategies for employability
+ATS2748 Introduction to Ancient Greek
+ATS2769 Englishes around the world
+ATS2792 Understanding Australia: From the deep past to the present
+ATS2800 Ensemble studies 3
+ATS2801 Ensemble studies 4
+ATS2817 Psychology of language
+ATS2824 The writer's voice: Techniques of creative writing
+ATS2829 People and plagues: Diseases that changed history
+ATS2836 De-democratisation and contentious politics in 21st century America
+ATS2839 Ethics
+ATS2840 Philosophy of mind
+ATS2843 Chinese introductory for background speakers 1
+ATS2844 Chinese introductory for background speakers 2
+ATS2848 The economic history of the modern world
+ATS2856 Populism and the crisis of democracy
+ATS2858 Politics of the Middle East and North Africa
+ATS2861 God, freedom and evil
+ATS2866 Symbolic logic
+ATS2868 Anarchy, property, and the state
+ATS2871 Environmental ethics
+ATS2878 Audio culture: The history of electronic music
+ATS2892 Chinese practical interpreting 2: Contextual interpreting
+ATS2901 Music theory and ear training 3
+ATS2902 Music theory and ear training 4
+ATS2910 Professional and academic presentation skills
+ATS2927 Global Encounters: Indigenous knowledges, entrepreneurship and cultural exchange
+ATS2940 Chinese translation 2: Enhancing bilingual and cross-cultural competence
+ATS2941 Asia's underside: Violence, crime and protest
+ATS2944 Language, culture and power
+ATS2946 Critical thinking: How to analyse arguments and improve your reasoning skills
+ATS2959 Chinese translation 1: Building bilingual and cross-cultural competence
+ATS2961 Political ideas
+ATS2999 Video game music
+ATS3004 Crime, risk and security
+ATS3005 Chinese proficient 1
+ATS3006 Chinese proficient 2
+ATS3007 Chinese studies advanced 1
+ATS3008 Chinese studies advanced 2
+ATS3009 Chinese studies advanced 3
+ATS3011 Chinese studies advanced 5: Contemporary literature
+ATS3012 Chinese studies advanced 6: Contemporary literature and popular culture
+ATS3013 Chinese business translation 1: Bridging bilingual business communication
+ATS3014 Chinese business translation 2: Mastering bilingual business communication
+ATS3061 The performing arts in Australia
+ATS3065 French proficient 1
+ATS3066 French proficient 2
+ATS3069 European languages advanced 3
+ATS3070 European languages advanced 4
+ATS3079 Modern China: From the Middle Kingdom to Mao and beyond
+ATS3083 Translating across cultures
+ATS3089 Social institutions and power in Asia
+ATS3091 Digital literatures
+ATS3094 Preparing for careers in the performing arts industry
+ATS3095 German proficient 1
+ATS3096 German proficient 2
+ATS3106 Developing criminal justice policy
+ATS3111 Global futures: Applied research and communication project
+ATS3115 Indonesian Proficient 1
+ATS3116 Indonesian Proficient 2
+ATS3129 Arts internship
+ATS3136 Performance 5
+ATS3137 Performance 6
+ATS3140 Composition and music technology 5: Interactive composition
+ATS3141 Composition and music technology 6: Final project
+ATS3145 Japanese proficient 1
+ATS3146 Japanese proficient 2
+ATS3147 Japanese studies advanced 1
+ATS3148 Japanese studies advanced 2
+ATS3156 Popular culture in North and South Korea: K-Culture to the world
+ATS3161 Prisons and punishment
+ATS3174 Melbourne migrant cultures in contact
+ATS3175 Korean proficient 1
+ATS3176 Korean proficient 2
+ATS3183 Foreign policy analysis
+ATS3189 Literary theory
+ATS3195 Spanish proficient 1
+ATS3196 Spanish proficient 2
+ATS3222 Developing research literacy
+ATS3223 Gender and family violence
+ATS3224 Gender, family violence and criminal justice system responses
+ATS3225 Italian proficient 1
+ATS3226 Italian proficient 2
+ATS3229 Cities, globalisation and sustainability
+ATS3243 Chinese translation for professional purposes 1: Stylistic approaches to translation
+ATS3246 Environmental analysis
+ATS3252 Music cities
+ATS3253 Leadership and change in politics, philosophy and economics
+ATS3255 Developing professional skills: Data collection and evidence-based practice
+ATS3256 Being a Criminologist: Research and professional practice
+ATS3269 European Languages Advanced 1
+ATS3271 European languages: Advanced 2
+ATS3272 Popular music 5
+ATS3273 Popular music 6
+ATS3291 Crime scenes: Interrogating societies through crime narratives
+ATS3293 Power, place and people: European legacies, global resistance, and transculturation
+ATS3294 European languages project
+ATS3298 Philosophy of consciousness and cognition
+ATS3299 Screen and the body
+ATS3325 Embodied language: Gesture, gaze and interaction
+ATS3326 Living a meaningful life: Wisdom traditions and their contemplative practices
+ATS3327 True happiness: The art, practice and science of human flourishing
+ATS3329 Language, culture and power
+ATS3331 Music in culture study tour
+ATS3336 Performance lab: Production investigation
+ATS3338 Environmental archaeology: Understanding cultural landscapes
+ATS3340 International security studies
+ATS3350 From Alexander to Kleopatra: The rise and fall of the Hellenistic world
+ATS3354 Interrogating racism: Indigenous Australians and the state
+ATS3359 Hearing the country: Studies in Indigenous Australian ethnoecology
+ATS3376 Anthropology of human rights
+ATS3380 Right-wing terrorism, extremism and fringe politics
+ATS3381 Aboriginal languages
+ATS3391 Worlds of sport: Business, politics, media and geographies
+ATS3399 The politics of identity
+ATS3421 Literature and modernism
+ATS3438 The body: A human history
+ATS3466 Sex, gender and crime
+ATS3479 Cultural heritage studies
+ATS3489 The writer's world: Practice, publishing and performance for creative writers
+ATS3496 Fairy-tale traditions
+ATS3531 Gender and sexuality in film and television
+ATS3540 Documentary Screens: Self, revolution and the everyday
+ATS3543 Australia's ancient Indigenous past: A 65,000 year archaeological odyssey
+ATS3544 Practical archaeology in the field
+ATS3554 Resource evaluation and management
+ATS3563 Global consumption
+ATS3580 The modern Middle East
+ATS3582 Palestinians and Israelis: Entangled histories
+ATS3584 The Indigenous history of modern Australia
+ATS3611 A history of God
+ATS3623 Nationality, ethnicity and conflict
+ATS3632 Post-conflict: Justice, memory, reconciliation
+ATS3634 Indigenous peoples globally
+ATS3639 Poverty, climate change and international justice
+ATS3655 Chinese translation for professional purposes 2: Problem solving in translation
+ATS3659 No Planet B: The climate crisis in historical perspective
+ATS3660 Global nuclear order
+ATS3705 Knowledge and power in world politics
+ATS3715 Sex and sexualities in everyday life
+ATS3719 Modern political thought
+ATS3725 Population and society
+ATS3730 Imagining tomorrow, climate change and social futures
+ATS3769 Englishes around the world
+ATS3805 Understanding contemporary Korean society and culture through literature and media
+ATS3816 Language learning and multilingualism
+ATS3817 Psychology of language
+ATS3819 Orchestration and arranging
+ATS3820 Music ensemble direction and leadership
+ATS3828 Film music
+ATS3836 Victorian parliamentary internship
+ATS3852 Researching social justice
+ATS3865 History in action
+ATS3866 Crimes of the powerful
+ATS3869 Political philosophy
+ATS3870 Philosophy of religion
+ATS3882 Metaphysics
+ATS3885 History of philosophy: Happiness
+ATS3888 American literature
+ATS3890 Egypt's golden age
+ATS3903 Leadership, politics and power
+ATS3908 American empire: The United States from colonies to superpower
+ATS3914 Dark heroes, dark realms: Supernatural fantasy before 1900
+ATS3916 Critical perspectives on human rights
+ATS3927 Global Encounters: Indigenous knowledges, entrepreneurship and cultural exchange
+ATS3935 Professional practice
+ATS3941 Police leadership and professional practice
+ATS3944 Writing the nation: Irish literature
+ATS3945 Contemporary issues in policing practice
+ATS3946 Asian languages advanced: Transnational intersections
+ATS3950 Activism for academic freedom: Applied workshop in research advocacy
+ATS3951 Japanese popular culture and identity
+ATS3956 Trauma and memory in the modern world
+ATS3965 Unity and diversity in China and global Sinophone communities
+ATS3969 Screen studies in the digital era
+ATS3989 Reading across cultures
+ATS3999 Video game music
+ATS4137 Special reading unit 1 (Honours)
+ATS4231 Arts honours thesis A
+ATS4232 Arts honours thesis B
+ATS4348 Theme and genre in literary studies
+ATS4451 Music and performance honours research A
+ATS4452 Music and performance honours research B
+ATS4520 Honours research methods
+ATS4834 Music and performance honours project
+ATS4869 Philosophical and historical studies honours B
+BCH2011 Structure and function of cellular biomolecules
+BCH2022 Metabolic basis of human diseases
+BCH3021 Cellular organisation: Organelle structure and function in health and disease
+BCH3031 Functional genomics and molecular medicine
+BCH3042 Cell signal transduction: Role in cancer and human disease
+BCH3052 Protein biology: From sequence to structure and disease
+BCH3990 Action in biochemistry research project
+BEX3006 Industry placement
+BEX3012 Industry placement
+BEX3024 Industry placement
+BEX3106 Industry placement
+BEX3112 Industry placement
+BEX3320 Business analytics for global impact
+BEX3350 Consulting project
+BEX3351 Consulting project
+BEX3450 Consulting project
+BEX3500 Professional development for commerce
+BFC2140 Corporate finance
+BFC2751 Derivatives
+BFC3140 Advanced corporate finance
+BFC3170 Financial intermediation
+BFC3240 International finance
+BFC3241 Investments
+BFC3340 Advanced derivatives
+BFC3341 Fixed income analysis
+BFC3540 Modelling in finance
+BFC3999 Finance and society
+BFX3355 Property investment
+BIO1011 Blueprints for life
+BIO1022 Life on Earth
+BIO1042 Life in the environment
+BIO2010 Data science for biologists
+BIO2011 Ecology and biodiversity
+BIO2030 Food security in a changing world
+BIO2040 Conservation biology
+BIO2181 Evolution of plant diversity
+BIO2231 Animal diversity
+BIO2242 Animal structure and function
+BIO3020 Evolutionary ecology
+BIO3021 Marine biology
+BIO3052 Animal behaviour
+BIO3082 Global change biology
+BIO3091 Biology of Australian vegetation
+BIO3100 Advanced methods in field ecology
+BIO3132 Biology of Australian vertebrates
+BIO3820 Tropical terrestrial biology
+BIO3990 Biology in action research project
+BIO4100 Biology research project
+BIO4110 Biology research project part time 1
+BIO4120 Biology research project part time 2
+BIO4200 Advanced coursework in biology
+BIO4210 Advanced coursework in biology part time 1
+BIO4220 Advanced coursework in biology part time 2
+BME2032 Biomedical industry based learning
+BME3030 Integrative biomedical science practical
+BME3032 Introduction to the health system
+BME3082 Fetal and neonatal development
+BME3990 Biomedical science education research project
+BMH4100 Biomedicine research project
+BMH4110 Biomedicine research project part-time A
+BMH4120 Biomedicine research project part-time B
+BMH4200 Advanced studies in biomedicine
+BMH4210 Advanced studies in biomedicine part-time A
+BMH4220 Advanced studies in biomedicine part-time B
+BMS1011 Biomedical chemistry
+BMS1021 Cells, tissues and organisms
+BMS1031 Medical biophysics
+BMS1042 Public health and preventive medicine
+BMS1052 Human neurobiology
+BMS1062 Molecular biology
+BMS2011 Human anatomy
+BMS2021 Human molecular cell biology
+BMS2031 Human physiology
+BMS2042 Human genetics
+BMS2052 Microbes in health and disease
+BMS2062 Introduction to bioinformatics
+BMS3031 Molecular mechanisms of disease
+BMS3052 Biomedical basis and epidemiology of human disease
+BMS3930 Action in biomedical science major research project
+BMS3940 Major research project in biomedical science
+BMS3990 Action in biomedical science minor research project
+BMS4100 Biomedical science research project
+BMS4200 Advanced studies in biomedical science
+BRU1100 Accounting
+BRU1200 Banking and finance
+BTC1110 Commercial law
+BTC2000 Corporations law
+BTC3200 Banking and finance law
+BTX3100 Sustainability regulation for business
+CHE1010 Grand challenges in chemical engineering: Delivering sustainable food, water and energy
+CHE2161 Mechanics of fluids
+CHE2162 Material and energy balances
+CHE2163 Heat and mass transfer
+CHE2164 Thermodynamics 1
+CHE3133 Food engineering
+CHE3161 Chemistry and chemical thermodynamics
+CHE3162 Process control
+CHE3163 Sustainable processing 1
+CHE3164 Reaction engineering
+CHE3165 Separation processes
+CHE3166 Process design
+CHE3167 Transport phenomena and numerical methods
+CHE3172 Nanotechnology and materials 1
+CHE4162 Particle technology
+CHE4170 Design project
+CHE4172 Nanotechnology and materials 2
+CHE4173 Sustainable process integration
+CHM1011 Chemistry 1
+CHM1022 Chemistry 2
+CHM1051 Chemistry 1 advanced
+CHM1052 Chemistry 2 advanced
+CHM2911 Inorganic and organic chemistry
+CHM2922 Spectroscopy and analytical chemistry
+CHM2942 Biological chemistry
+CHM2951 Environmental chemistry: Water
+CHM2962 Food chemistry
+CHM2990 Introductory chemical research project
+CHM3180 Materials chemistry
+CHM3911 Advanced physical chemistry
+CHM3922 Advanced organic chemistry
+CHM3930 Medicinal chemistry
+CHM3941 Advanced inorganic chemistry
+CHM3952 Advanced analytical chemistry
+CHM3960 Environmental chemistry
+CHM3972 Sustainable chemistry
+CHM3980 Chemistry overseas research project
+CHM3990 Chemistry project
+CHM4100 Chemistry research project
+CHM4110 Chemistry research project part-time A
+CHM4120 Chemistry research project part-time B
+CHM4201 Chemistry honours coursework
+CHM4211 Chemistry honours coursework part-time A
+CHM4221 Chemistry honours coursework part-time B
+CIV2206 Structural mechanics
+CIV2235 Structural materials
+CIV2242 Geomechanics 1
+CIV2263 Water systems
+CIV2282 Transport and traffic engineering
+CIV2283 Civil engineering construction
+CIV3221 Building structures and technology
+CIV3247 Geomechanics 2
+CIV3283 Road engineering
+CIV3285 Engineering hydrology
+CIV3294 Structural design
+CIV4100 Autonomous vehicle systems
+CIV4212 Civil and environmental engineering practice
+CIV4249 Foundation engineering
+CIV4280 Bridge design and assessment
+CIV4284 Sustainable traffic systems
+CIV4288 Water treatment
+CLI1100 Climate change: A wicked problem
+CLI1200 Climate change: Impacts and adaptations
+DEV2011 Early human development from cells to tissues
+DEV2022 Human anatomy and development: Tissues and body systems
+DEV3011 Experimental developmental biology and disease modelling
+DEV3022 Developmental and anatomical basis of human health and disease
+DEV3032 Stem cells in development, disease and regeneration
+DEV3990 Action in anatomy and developmental biology research project
+EAE1011 The Earth system: From the core to the atmosphere
+EAE1022 The Earth system: Changing environments and climates
+EAE2011 Environmental problem solving and visualisation
+EAE2051 Introduction to the formation and evolution of planets
+EAE2111 Introduction to climate science
+EAE2122 Introduction to atmospheric physics and dynamics
+EAE2322 Environmental earth science
+EAE2511 Deep earth processes
+EAE2522 Earth surface dynamics
+EAE2532 Field geology and geological mapping
+EAE3000 Earth, atmosphere and environment research project
+EAE3010 Earth, atmosphere and environment: Special topics
+EAE3012 Geographical information systems and remote sensing
+EAE3032 Geophysical interpretations in geoscience, geography and environmental science
+EAE3042 Antarctica in the Earth System
+EAE3051 Palaeoclimatology: Discovering Earth's past climate
+EAE3111 Climate dynamics
+EAE3121 Atmospheric physics for weather and climate
+EAE3132 Future climates: Projections, impacts and adaptation
+EAE3152 Dynamical meteorology
+EAE3311 Oceans and coasts
+EAE3321 Soils and land management
+EAE3331 Water: hydrology, landscapes and risk
+EAE3342 Biogeochemical cycles
+EAE3512 Geoscience: Ore deposits and metals of the future
+EAE3531 Geoscience: Deformation of the crust
+EAE3540 Geology and geomorphology in the field
+EAE3541 Geoscience: Igneous and metamorphic processes
+EAE4020 Statistics for climate dynamics
+EAE4025 Ocean circulation and dynamics
+EAE4027 Climate models: what are they good for?
+EAE4051 Fundamentals of geographical information science
+EAE4070 Coursework Victorian Institute of Earth and Planetary Sciences
+EAE4100 Earth, atmosphere and environment honours research project
+EAE4110 Earth, atmosphere and environment honours research project part-time A
+EAE4120 Earth, atmosphere and environment honours research project part-time B
+EAE4200 Earth, atmosphere and environment honours coursework
+EAE4210 Earth, atmosphere and environment honours coursework part-time A
+EAE4220 Earth, atmosphere and environment honours coursework part-time B
+ECC1000 Principles of microeconomics
+ECC1050 Big ideas in economics
+ECC1100 Principles of macroeconomics
+ECC1550 Introductory mathematics for business and economics
+ECC2000 Intermediate microeconomics
+ECC2010 Intermediate macroeconomics
+ECC2450 Sports economics
+ECC2460 Energy markets and policy
+ECC2551 Mathematical economics
+ECC2600 Behavioural economics
+ECC2610 Game theory and strategic thinking
+ECC3000 Advanced microeconomics
+ECC3144 Economic history: The rise of capitalism
+ECC3146 Community, market and government
+ECC3600 Experimental economics
+ECC3640 Economics of climate change
+ECC3660 Business cycle fluctuations and monetary policy
+ECC3670 Economics of developing countries
+ECC3671 Economic science of diversity and inclusion
+ECC3690 International economics
+ECC3710 Labour economics
+ECC3740 Economics of financial decision making
+ECC3800 History of economic thought
+ECC3810 Public finance
+ECC3830 Industrial organisation and competition policy
+ECC3841 Network economics
+ECC3871 Political economy: Institutions, order, and evidence
+ECC4650 Microeconomics
+ECC4660 Macroeconomics
+ECC4860 Honours research project
+ECE2071 Systems programming
+ECE2072 Digital systems
+ECE2111 Signals and systems
+ECE2131 Electrical circuits
+ECE2191 Probability and AI for engineers
+ECE3051 Electrical energy systems
+ECE3073 Computer systems
+ECE3093 Optimisation and numerical methods for engineers
+ECE3121 Engineering electromagnetics
+ECE3141 Information and networks
+ECE3142 Digital communication
+ECE3161 Analogue electronics
+ECE4024 Wireless communications
+ECE4045 Network performance
+ECE4053 Power system analysis
+ECE4055 Power electronic converters
+ECE4076 Computer vision
+ECE4078 Intelligent robotics
+ECE4081 Medical instrumentation
+ECE4087 Medical technology innovation
+ECE4122 Advanced electromagnetics
+ECE4132 Control system design
+ECE4179 Neural networks and deep learning
+ECE4191 Engineering integrated design
+ECE4886 Smart grids
+ECF5060 Applied economics research and consulting
+ECX2144 The economic history of the modern world
+ECX2300 Crashes, crises and macroeconomic policy
+ECX2320 Economics for entrepreneurs
+ECX2360 Environmental economics
+ECX2400 Design and evaluation of economic, public, and social programs
+ECX2630 Chinese economy and global business
+ECX2800 Prosperity, poverty and sustainability in a globalised world
+ECX2953 Economics
+ECX3550 Business in Asia
+EDF1010 Learning in a university context
+EDF1011 Knowledge and context
+EDF1012 Mathematics for tertiary study
+EDF1013 Academic writing
+EDF1022 Primary professional experience 1L
+EDF1023 Secondary professional experience 1L
+EDF1069 Cross-cultural understandings of education
+EDF1070 Understanding students as learners
+EDF1079 Digital technologies
+EDF1082 Primary professional experience 1A
+EDF1083 Secondary professional experience 1A
+EDF1084 English and literacies 1
+EDF1087 Foundation to inclusive education
+EDF1088 Understanding behaviour in classrooms and schools
+EDF1401 Foundations of learning design and technology
+EDF1402 Designing for socially inclusive learning
+EDF2049 English and literacies 2
+EDF2062 Education policy and practice
+EDF2063 Planning for teaching and learning
+EDF2064 Assessing teaching and learning
+EDF2066 Mathematics 1
+EDF2067 Health and physical education
+EDF2069 Primary creative arts
+EDF2070 Humanities and social sciences
+EDF2077 Using assessment to respond to diversity across the school years
+EDF2078 Creative and critical teaching
+EDF2079 Educational technologies
+EDF2081 Primary professional experience 2B
+EDF2084 Special education professional experience 2A
+EDF2401 Learning design methodologies
+EDF2402 Multimedia and interactive learning design
+EDF2404 Assessment and feedback design
+EDF2405 Industry engagement: Part 1
+EDF3065 Indigenous perspectives and learning
+EDF3066 Inclusive education: Teaching learners with diverse abilities
+EDF3067 Mathematics 2
+EDF3070 Developing technological knowledge
+EDF3075 Developing transdisciplinary pedagogies
+EDF3076 Working in partnerships
+EDF3077 Curriculum in inclusive education
+EDF3078 Teaching and learning of students needing increased support
+EDF3079 English and literacies 3
+EDF3081 Primary professional experience 3B
+EDF3082 Secondary professional experience 3A
+EDF3084 Secondary professional experience 3B
+EDF3087 Primary professional experience 3D
+EDF3089 Secondary professional experience 3C
+EDF3096 Fostering classroom culture
+EDF3097 Adolescent development and learning
+EDF4009 English and literacies 4
+EDF4047 Leading literacy learning
+EDF4067 Evidence into action
+EDF4068 Teaching performance assessment
+EDF4069 Transition to the profession
+EDF4078 Leading mathematics learning
+EDF4081 Primary professional experience 4B
+EDF4082 Secondary professional experience 4A
+EDF4083 Secondary professional experience 4B
+EDF4085 Primary professional experience 4C
+EDF4086 Primary professional experience 4D
+EDF4087 Secondary professional experience 4C
+EDF4091 Teaching technology
+EDF4092 Primary health and physical education
+EDF4093 Primary creative arts
+EDF4094 Primary humanities and social sciences
+EDF4095 Science education
+EDF4099 Developing literacy and numeracy
+EDF4604 Research project
+EDF5121 Humanities: Accounting in secondary years A
+EDF5122 Humanities: Accounting in secondary years B
+EDF5123 Science: Biology in secondary years A
+EDF5124 Science: Biology in secondary years B
+EDF5125 Humanities: Business management in secondary years A
+EDF5126 Humanities: Business management in secondary years B
+EDF5127 Science: Chemistry in secondary years A
+EDF5128 Science: Chemistry in secondary years B
+EDF5129 Drama, movement and theatre studies in secondary years A
+EDF5130 Drama, movement and theatre studies in secondary years B
+EDF5131 Humanities: Economics in secondary years A
+EDF5132 Humanities: Economics in secondary years B
+EDF5133 English as an additional language (EAL) education in the secondary years A
+EDF5134 English as an additional language (EAL) education in the secondary years B
+EDF5135 English education in the secondary years A
+EDF5136 English education in the secondary years B
+EDF5137 Science in secondary years A
+EDF5138 Science in secondary years B
+EDF5139 Humanities: Geography in secondary years A
+EDF5140 Humanities: Geography in secondary years B
+EDF5141 Health education in the secondary years A
+EDF5142 Health education in the secondary years B
+EDF5143 Humanities: History in secondary years A
+EDF5144 Humanities: History in secondary years B
+EDF5145 Digital technologies in the secondary years A
+EDF5146 Digital technologies in the secondary years B
+EDF5155 Languages education in the secondary years A
+EDF5156 Languages education in the secondary years B
+EDF5159 Humanities: Legal studies in secondary years A
+EDF5160 Humanities: Legal studies in secondary years B
+EDF5161 Mathematics education in the secondary years A
+EDF5162 Mathematics education in the secondary years B
+EDF5163 Media education in the secondary years A
+EDF5164 Media education in the secondary years B
+EDF5165 Music education in the secondary years 1A
+EDF5166 Music education in the secondary years 1B
+EDF5167 Music education in the secondary years 2A
+EDF5168 Music education in the secondary years 2B
+EDF5171 Health and physical education in the secondary years A
+EDF5172 Physical Education in the secondary years B
+EDF5173 Science: Physics in secondary years A
+EDF5174 Science: Physics in secondary years B
+EDF5175 Science: Psychology in secondary years A
+EDF5176 Science: Psychology in secondary years B
+EDF5177 Humanities: Social sciences in secondary years A
+EDF5178 Humanities: Social sciences in secondary years B
+EDF5179 Visual art and design education in the secondary years 1A
+EDF5180 Visual art and design education in the secondary years 1B
+EDF5181 Visual art and design education in the secondary years 2A
+EDF5182 Visual art and design education in the secondary years 2B
+EDF5700 Professional experience in inclusive education
+EEH3008 Engineering exchange unit
+ENE1621 Environmental engineering
+ENE2021 Energy and the environment
+ENE2503 Material properties and recycling
+ENE3031 Building sustainability
+ENE3032 Fate and transport of contaminants
+ENE3606 The air environment
+ENE4041 Soil remediation and solid waste management
+ENE4042 Environmental impact and risk assessment
+ENE4043 Quantifying sustainability in urban systems
+ENE4044 AI applications for civil and environmental engineers
+ENG0001 Engineering continuous professional development
+ENG1005 Engineering mathematics
+ENG1011 Engineering methods
+ENG1012 Engineering design
+ENG1013 Engineering smart systems
+ENG1014 Engineering numerical analysis
+ENG1021 Spatial communication in engineering
+ENG1051 Materials for energy and sustainability
+ENG1090 Foundation mathematics
+ENG2005 Advanced engineering mathematics
+ENG4105 Biomedical engineering integrated design
+ENG4701 Final year project A
+ENG4702 Final year project B
+ENG4801 Professional practice (Curriculum embedded)
+ENG4802 Professional practice (Student teams)
+ENG4803 Professional practice (Industry experience)
+ENG4804 Professional practice (Co-operative education)
+ENG5331 Railway engineering
+ENV2022 Environmental field skills and monitoring
+ETC1000 Business and economic statistics
+ETC1010 Introduction to data analysis
+ETC2410 Introductory econometrics
+ETC2420 Statistical thinking
+ETC2430 Actuarial cash flow modelling
+ETC2440 Mathematics for economics and business
+ETC2520 Probability and statistical inference for economics and business
+ETC2560 Statistical modelling for actuarial studies
+ETC3250 Introduction to machine learning
+ETC3400 Principles of econometrics
+ETC3410 Applied econometrics
+ETC3420 Applied insurance methods
+ETC3430 Financial mathematics under uncertainty
+ETC3450 Applied time series econometrics
+ETC3460 Financial econometrics
+ETC3520 Foundations of quantitative finance
+ETC3530 Life insurance mathematics
+ETC3550 Applied forecasting
+ETC3555 Statistical machine learning
+ETC3580 Advanced statistical modelling
+ETC4400 Statistical theory and practice
+ETC4420 Microeconometrics
+ETC4500 Advanced R programming
+ETC4541 Bayesian inference and data analysis
+ETC4860 Honours research project
+ETC5343 Financial mathematics under uncertainty
+FIT1006 Business information analysis
+FIT1008 Fundamentals of algorithms
+FIT1033 Foundations of 3D
+FIT1043 Introduction to data science
+FIT1045 Introduction to programming
+FIT1047 Introduction to computer systems, networks and security
+FIT1049 IT professional practice
+FIT1050 Web fundamentals
+FIT1051 Programming fundamentals in java
+FIT1053 Introduction to programming (Advanced)
+FIT1054 Fundamentals of algorithms (Advanced)
+FIT1056 Introduction to software engineering
+FIT1057 Introduction to cybersecurity
+FIT1058 Foundations of computing
+FIT1059 AI for everyone
+FIT1060 Pervasive computing
+FIT1073 Game design
+FIT1093 Cybersecurity tools and techniques
+FIT2001 Systems development
+FIT2002 IT project management
+FIT2004 Algorithms and data structures
+FIT2014 Theory of computation
+FIT2081 Mobile application development
+FIT2082 Computer science research project
+FIT2083 Innovation and research in computer science
+FIT2085 Fundamentals of algorithms for engineers
+FIT2086 Modelling for data analysis
+FIT2090 Business information systems and processes
+FIT2094 Databases
+FIT2095 Full stack development
+FIT2096 Games programming
+FIT2098 Virtual and augmented reality
+FIT2099 Object oriented design and implementation
+FIT2100 Operating systems
+FIT2101 Software engineering process and management
+FIT2102 Programming paradigms
+FIT2104 Web database interface
+FIT2107 Software quality and testing
+FIT2108 Industry based learning seminar
+FIT2109 Computer science workshop
+FIT2145 Game prototyping
+FIT2165 Computer networks
+FIT2169 Immersive environments
+FIT2173 Software security
+FIT2175 Usability
+FIT2179 Data visualisation
+FIT3003 Business intelligence and data warehousing
+FIT3031 Network security
+FIT3039 Studio project 1
+FIT3040 Studio project 2
+FIT3045 Industry-based learning
+FIT3047 Industry experience studio project 1
+FIT3048 Industry experience studio project 2
+FIT3077 Software engineering: Architecture and design
+FIT3080 Artificial intelligence
+FIT3097 Technical art
+FIT3138 Real time enterprise systems
+FIT3139 Computational modelling and simulation
+FIT3143 Parallel computing
+FIT3144 Advanced computer science research project
+FIT3146 Maker lab
+FIT3152 Data analytics
+FIT3154 Advanced data analysis
+FIT3155 Advanced data structures and algorithms
+FIT3158 Business decision modelling
+FIT3159 Computer architecture
+FIT3161 Computer science project 1
+FIT3162 Computer science project 2
+FIT3163 Data science project 1
+FIT3164 Data science project 2
+FIT3165 Computer networks
+FIT3168 IT forensics
+FIT3170 Software engineering practice
+FIT3171 Databases
+FIT3172 Sonics
+FIT3173 Software security
+FIT3174 IT strategy and governance
+FIT3175 Usability
+FIT3176 Advanced database design
+FIT3178 iOS app development
+FIT3179 Data visualisation
+FIT3181 Deep learning
+FIT3184 Cloud computing
+FIT3186 Vulnerability analysis, response and mitigation
+FIT3187 3D character animation
+FIT3188 Cybersecurity project 1
+FIT3189 Cybersecurity project 2
+FIT3190 Work Integrated Learning - Industry placement
+FIT4000 Honours thesis extension
+FIT4002 Software engineering industry experience studio project
+FIT4005 IT research and innovation methods
+FIT4008 Reading unit
+FIT4042 Industry-based learning placement
+FIT4165 Computer networks
+FIT4441 Honours thesis part 1
+FIT4442 Honours thesis part 2
+FIT4443 Honours thesis part 3
+FIT4444 Honours thesis final
+FIT4701 Final year software engineering project A
+FIT4702 Final year software engineering project B
+GEN2041 Foundations of genetics
+GEN2052 Genomics and population genetics
+GEN3030 Molecular, cellular and developmental genetics
+GEN3040 Genomics and its applications
+GEN3051 Medical and forensic genetics
+GEN3062 Evolutionary and ecological genetics
+GEN3990 Genetics in action research project
+GNA2022 The dynamic cell
+GNA2042 Human genetics
+HUP2032 Exploring human disease and pathology diagnostics
+HUP3011 Human pathology 1: Understanding disease processes
+HUP3022 Human pathology 2: Pathology of human diseases
+IMM2011 Basic immunology: The body's defence system
+IMM2022 Immunology in health and disease
+IMM3031 Molecular and cellular immunology
+IMM3042 Clinical immunopathology
+IMM3051 Principles of applied immunology
+IMM3062 Clinical and research laboratory immunology
+IMM3990 Immunology in action research project
+LAW1111 Foundations of law
+LAW1112 Public law and statutory interpretation
+LAW1113 Torts
+LAW1114 Criminal law 1
+LAW2101 Contract A
+LAW2102 Contract B
+LAW2111 Constitutional law
+LAW2112 Property A
+LAW3111 Equity
+LAW3112 Corporations law
+LAW3402 Property B
+LAW4112 Advanced constitutional law
+LAW4113 Current problems in criminal law
+LAW4122 Public international law
+LAW4129 Discrimination law
+LAW4132 Law of employment
+LAW4137 Legal philosophy
+LAW4155 International human rights
+LAW4158 Indigenous peoples and the law
+LAW4160 Negotiation and conflict resolution
+LAW4164 International refugee law and practice
+LAW4170 Trusts
+LAW4172 Human rights in Australian law
+LAW4173 Research unit
+LAW4177 Introduction to family law
+LAW4184 International criminal law
+LAW4225 Non-adversarial justice
+LAW4230 Animal law
+LAW4244 Construction law (dispute resolution)
+LAW4301 Advanced torts
+LAW4303 Litigation and dispute resolution
+LAW4306 Sentencing and sanctions
+LAW4309 Lawyers ethics in practice
+LAW4312 Legal issues in medicine
+LAW4313 International environmental law
+LAW4323 Evidence
+LAW4327 Honours thesis
+LAW4328 Professional practice
+LAW4330 Family law assistance program: Professional practice
+LAW4331 Administrative law
+LAW4332 Criminal law and procedure 2
+LAW4340 Sport and the law
+LAW4341 Copyright and designs
+LAW4342 Patents and trade marks
+LAW4522 Remedies
+LAW4526 World Trade Organisation (WTO) law
+LAW4542 AI, technology and the law
+LAW4543 The death penalty: Law, politics and advocacy
+LAW4544 Challenging government: Law reform and public advocacy
+LAW4545 AI for lawyers: Practical applications and theory
+LAW4546 Fintech and the law
+LAW4547 Global health law
+LAW4548 Queer law
+LAW4668 International investment law
+LAW4671 Private investment law
+LAW4679 The law of climate change
+LAW4687 Human trafficking, modern slavery and the law
+LAW4701 Commercial transactions
+LAW4702 Competition and consumer law
+LAW4703 Introduction to intellectual property
+LAW4704 Taxation law
+LAW4801 Research project
+LAW4803 Clinical placement
+LAW4805 Mooting and advocacy competition
+LAW4806 Jessup moot competition
+LAW4808 Law Review editorship 1
+LAW4809 Law Review editorship 2
+LAW4811 In-house clinical placement: Law reform and systemic change
+LAW4813 In-house clinical placement: Client legal assistance
+LAW4814 Extended clinical placement
+LAW4815 International clinical placement
+MAE3401 Aerodynamics 2
+MAE3405 Aerospace propulsion
+MAE3411 Aerospace structural mechanics
+MAE4410 Flight vehicle design
+MAE4416 Orbital mechanics and spaceflight dynamics
+MAT1830 Discrete mathematics for computer science
+MCB2011 Molecular biology and the cell
+MCB2022 The dynamic cell
+MEC3416 Mechanical design 2
+MEC3451 Fluid mechanics 2
+MEC3453 Mechanical dynamics 2
+MEC3455 Solid mechanics 2
+MEC3602 Biomedical microsystems
+MEC4407 Mechanical design 3
+MEC4408 Thermodynamics 2 and heat transfer
+MED1100 Introduction to medical practice
+MED1200 Principles of medicine 1
+MED2100 Foundations of medical practice
+MED2200 Principles of medicine 2
+MED3100 Medicine and surgery
+MED3200 Foundation clinical studies
+MED4100 Specialty clinical practices
+MED4200 Integrated clinical studies
+MED4301 Medical science honours research skills
+MED4302 Medical science honours research project
+MED5105 Advanced clinical practice
+MGC1010 Introduction to management
+MGC2961 Introduction to supply chain management
+MGX2021 Social issues in organising
+MGX2111 Organisational behaviour
+MGX2661 Sustainable human resource management
+MGX3100 Ethics and sustainable business practices
+MGX3110 Strategic management
+MGX3250 Innovation, entrepreneurship and intrapreneurship
+MGX3771 Operations management
+MGX3991 Leadership principles and practices
+MGX4400 Honours research thesis
+MHS1101 Introduction to mental health and contemporary mental health needs
+MIC2011 Microbiology foundations and global applications
+MIC2022 Microbes in health and disease
+MIC3011 Molecular microbiology
+MIC3022 Molecular virology and viral pathogenesis
+MIC3032 Pathogenesis of bacterial infectious diseases
+MIC3041 Medical microbiology
+MIC3990 Action in microbiology research project
+MIS4100 Regenerative medicine research project
+MIS4200 Advanced studies in regenerative medicine
+MKC1200 Principles of marketing
+MKC2110 Buyer behaviour in marketing
+MKC2130 Fundamentals of marketing analytics
+MKC2500 Marketing research analysis
+MKC2610 Strategic retailing
+MKC2700 Pricing strategy and management
+MKC3110 Market analysis and strategy development
+MKC3140 Marketing strategy implementation
+MKC3460 Marketing communication in the digital age
+MKX3481 Marketing channels
+MON2000 Volunteering in practice
+MON2500 Research, experimentation and discovery
+MON3500 Research, experimentation and discovery
+MTE2101 Atomic-scale structure of materials
+MTE2102 Phase equilibria and phase transformations
+MTE2103 Mechanical properties of materials
+MTE2201 Plastics and the planet: Health, impact and sustainability
+MTE3102 Plasticity of metals and alloys
+MTE3103 Materials life cycle
+MTE3201 Materials in a complex world 2: Characterisation, identification and selection
+MTE3202 Magnetic and spintronic materials
+MTE3203 Introduction to ceramics: Properties, processing and applications
+MTE3204 Biomaterials 1
+MTE4101 Integrated design project
+MTE4102 Advanced materials processing and manufacturing
+MTE4235 Nuclear energy: Science, technology and society
+MTE4590 From continuum to quantum
+MTE4593 Materials and sustainability
+MTE4596 Biomaterials 2
+MTE4597 Engineering with nanomaterials
+MTH1010 Functions and their applications
+MTH1020 Analysis of change
+MTH1030 Techniques for modelling
+MTH1035 Techniques for modelling (Advanced)
+MTH2010 Multivariable calculus
+MTH2015 Multivariable calculus (advanced)
+MTH2019 Multivariate mathematics for data science
+MTH2021 Linear algebra with applications
+MTH2025 Linear algebra (Advanced)
+MTH2032 Differential equations with modelling
+MTH2040 Mathematical modelling
+MTH2051 Introduction to computational mathematics
+MTH2132 The nature and beauty of mathematics
+MTH2137 Number theory and cryptography
+MTH2140 Real analysis
+MTH2141 Algebra 1: Group theory
+MTH2222 Mathematics of uncertainty
+MTH2225 Mathematics of uncertainty (Advanced)
+MTH2232 Mathematical statistics
+MTH3000 Mathematics research project level 3
+MTH3011 Partial differential equations
+MTH3020 Complex analysis and integral transforms
+MTH3025 Complex analysis and integral transform (Advanced)
+MTH3060 Advanced ordinary differential equations
+MTH3110 Differential geometry
+MTH3115 Differential geometry (Advanced)
+MTH3130 Topology: The mathematics of shape
+MTH3137 Number theory and cryptography (Advanced)
+MTH3140 Real analysis
+MTH3141 Algebra 1: Group theory
+MTH3150 Algebra 2: Rings and fields
+MTH3160 Metric spaces, Banach spaces, Hilbert spaces
+MTH3170 Network mathematics
+MTH3175 Network mathematics (Advanced)
+MTH3230 Time series and random processes in linear systems
+MTH3241 Random processes in the sciences and engineering
+MTH3251 Financial mathematics
+MTH3260 Statistics of stochastic processes
+MTH3320 Computational linear algebra
+MTH3330 Optimisation and operations research
+MTH3340 Numerical methods for partial differential equations
+MTH3360 Fluid dynamics
+MTH3401 Special topics in mathematics 1
+MTH3402 Special topics in mathematics 2
+MTH4015 Partial differential equations
+MTH4020 Complex analysis and integral transforms
+MTH4060 Advanced ordinary differential equations
+MTH4100 Mathematics research studies
+MTH4110 Differential geometry
+MTH4130 Topology: The mathematics of shape
+MTH4150 Algebra 2: Rings and fields
+MTH4160 Metric spaces, Banach spaces, Hilbert spaces
+MTH4170 Network mathematics
+MTH4200 Advanced studies in mathematics
+MTH4230 Time series and random processes in linear systems
+MTH4241 Random processes in the sciences and engineering
+MTH4251 Financial mathematics
+MTH4260 Statistics of stochastic processes
+MTH4320 Computational linear algebra
+MTH4330 Optimisation and operations research
+MTH4360 Fluid dynamics
+MTH5020 Special topics in advanced mathematics 2
+MTH5830 Industry placement
+NUR1014 Indigenous health and cultural safety in healthcare practice
+NUR1015 Regional, rural and remote area nursing
+NUR1110 Communication and scholarship in nursing and midwifery
+NUR1112 Fundamental skills and knowledge for nursing and midwifery practice 1
+NUR1113 Law, ethics and leadership in nursing and midwifery
+NUR1114 Fundamental skills and knowledge for nursing and midwifery practice 2
+NUR1447 Nursing contexts of wound and pain management
+NUR2008 Global, public and primary health for nursing practice
+NUR2010 Caring for children and young people in nursing practice
+NUR2225 Mental health nursing and midwifery practice contexts
+NUR2226 Nursing practice contexts 1
+NUR2227 Primary health care and health promotion in nursing and midwifery contexts
+NUR2228 Nursing practice contexts 2
+NUR2229 Nursing practice contexts 3
+NUR3008 Safety and quality in ageing and chronic conditions
+NUR3010 Leadership, education and quality improvement in nursing practice
+NUR3310 Translation of nursing knowledge to complex acute care practice
+NUR3312 Translation of nursing knowledge in preparation for professional practice
+NUR4111 Translation of nursing knowledge for primary care practice
+NUR4113 Translation of nursing knowledge for leadership in practice
+NUR4401 Clinical honours thesis 1: Applied research methods and skills
+NUR4402 Clinical honours thesis 2: Framing a research proposal
+NUR4403 Clinical honours thesis 3: Conducting a research project
+NUR4404 Clinical honours thesis 4: Analysing and reporting research
+NUT1001 Personal and professional perspectives in nutrition
+NUT1002 Evaluating the evidence: Nutrition and population health
+NUT1010 Human nutrition: An introduction to nutrients
+NUT1011 Human nutrition: An introduction to nutrients
+NUT1101 Science foundations
+NUT1102 Food science
+NUT1103 Human biology for nutrition
+NUT2001 Health across the lifespan
+NUT2002 Applied research methods in nutrition
+NUT2003 Sport and exercise nutrition
+NUT2011 Nutrition across the lifespan
+NUT2102 Food: Science, composition and skills
+NUT2103 Advanced nutritional physiology and immunology
+NUT2104 Nutritional biochemistry
+NUT3002 Nutrition, activity and health in chronic diseases
+NUT3003 Applied sport and exercise nutrition
+NUT3004 Nutrition controversies
+NUT3005 Nutrition assessment
+NUT3006 Food systems and planetary health
+NUT3007 Work placement
+NUT3008 Precision and personalised nutrition
+NUT3082 Public health nutrition
+PHA2022 Drugs and society
+PHA3011 Principles of drug action
+PHA3021 Drugs in health and disease
+PHA3032 Neuro and endocrine pharmacology
+PHA3042 Modern drug development
+PHA3990 Action in pharmacology research project
+PHS1001 Foundation physics
+PHS1002 Physics for engineering
+PHS1011 Classical physics and relativity
+PHS1022 Fields and quantum physics
+PHS1031 Physics for the living world
+PHS2061 Quantum and thermal physics
+PHS2062 Electromagnetism and optics
+PHS2081 Atomic, nuclear and condensed matter physics
+PHS2350 Physics and astronomy introductory research project 1
+PHS2360 Physics and astronomy introductory research project 2
+PHS3000 Experimental physics
+PHS3101 Quantum mechanics
+PHS3102 Statistical and condensed matter physics
+PHS3201 Classical dynamics and field theory
+PHS3202 Wave optics and atomic physics
+PHS3302 Relativity and particle physics
+PHS3350 Physics and astronomy research project 1
+PHS3360 Physics and astronomy research project 2
+PHS4100 Physics honours research project
+PHS4110 Physics honours research project A
+PHS4120 Physics honours research project B
+PHS4200 Physics honours coursework
+PHS4210 Physics honours coursework A
+PHS4220 Physics honours coursework B
+PHY2011 Neuroscience of communication, sensory and control systems
+PHY2032 Human physiology: Hormonal and digestive systems
+PHY2042 Human physiology: Cardiovascular, respiratory and renal systems
+PHY3012 Integrative neuroscience
+PHY3072 Exercise physiology
+PHY3111 Sensory and cognitive neuroscience
+PHY3171 Cardiovascular physiology and disease
+PHY3181 Reproductive physiology
+PHY3202 Nutrition, metabolism and body weight
+PHY3990 Action in physiology research project
+PSY1011 Foundations in psychology
+PSY1013 The science of thriving
+PSY1014 Introduction to contemporary mental health practice
+PSY1023 Introduction to psychological Inquiry
+PSY1024 Psychology: Allies in Indigenous health
+PSY1211 Brain and behaviour
+PSY2014 Mental health in the digital age
+PSY2041 Psychological testing and assessment
+PSY2042 Personality and social psychology
+PSY2061 Biological psychology
+PSY2071 Developmental psychology
+PSY2242 Psychology of ageing
+PSY2243 Child and youth mental health: Empowering parents and carers
+PSY2320 Sleep and circadian rhythms
+PSY3032 Psychological disorders
+PSY3034 Psychological science in practice
+PSY3051 Perception and cognitive psychology
+PSY3052 Cultural safety, responsiveness and reflexivity in practice
+PSY3062 Research methods in psychology
+PSY3120 Introduction to counselling
+PSY3180 Introduction to clinical neuropsychology
+PSY3190 Addiction studies
+PSY3251 Suicide prevention and support
+PSY3252 The history of psychological disorders and disability
+PSY3280 The neuronal basis of consciousness
+PSY3320 Sleep and circadian rhythms
+PSY4000 Final honours psychology
+PSY4100 Psychology honours: Research project
+PSY4210 Statistics and data science for psychology
+PSY4220 Ethics, legal and professional issues in psychology
+PSY4270 Psychological assessment and intervention
+RAD1012 Radiographic science and practice 2
+RAD1021 Radiologic physics and radiation protection
+RAD1022 Medical radiation science: Physical principles
+RAD1031 Radiologic biology 1
+RAD1061 Radiographic science and practice 1
+RAD1081 Foundations in medical radiation physics
+RAD1082 Radiologic biology 2
+RAD2001 Medical imaging science: Radiographic principles
+RAD2002 Medical imaging anatomy
+RAD2003 Medical imaging science: Nuclear medicine
+RAD2004 Pathophysiology for medical radiation science 1
+RAD2005 Medical radiation science: Professional skills 1
+RAD2006 Pathophysiology for medical radiation science 2
+RAD2007 Medical radiation science: Professional skills 2
+RAD2012 Radiographic science and practice 4
+RAD2051 Radiographic science and practice 3
+RAD2061 Radiologic biology 3
+RAD2092 Radiologic biology 4 and sectional anatomy
+RAD3002 Medical imaging science: Computed tomography and digital image processing
+RAD3004 Neuroimaging for neuroscience research
+RAD3042 Medical imaging science and practice 2
+RAD3051 Medical imaging science and practice 1
+RAD3061 Medical imaging science (ultrasound)
+RAD3092 Magnetic resonance imaging (physics and technology)
+RAD4000 Radiography and medical imaging work experience
+RAD4070 Research in medical imaging
+RAD4080 Selected topics in medical imaging
+RAD4160 Advanced medical imaging
+RSE1010 Introduction to resources engineering
+RSE3010 Mine geotechnical engineering
+RSE3020 Resource estimation
+RSE3040 Mining systems
+RSE3060 Rock breakage
+RSE3141 Solar energy
+RSE3241 Hydropower
+RSE3242 Geothermal energy
+RSE3243 Bioenergy
+RSE4010 Mine and tunnel planning
+RTS2101 Fundamentals of cancer and its management
+RTS4100 Radiation therapy principles for practice
+RTS4106 Radiation therapy principles and introduction to professional practice
+SCI1000 Science communication to influence change
+SCI1005 Scientific research and communication
+SCI1015 Research first project
+SCI1020 Introduction to statistical reasoning
+SCI1022 Introduction to scientific coding
+SCI1200 Humans, evolution and modern society
+SCI1501 Impact through science 1A
+SCI1502 Impact through science 1B
+SCI2030 Indigenous science: Science through the eyes of Australia's first peoples
+SCI2501 Impact through science 2A
+SCI2502 Impact through science 2B
+SCI3501 Impact through science 3A
+SCI3502 Impact through science 3B
+SCI3920 Science internship
+SCI3925 Science internship (Extended)
+SCI3930 Career skills for scientists
+SCI3990 Science in action research project
+SCI4100 Science honours project
+SCI4110 Science honours project
+SCI4120 Science honours project
+SCI4210 Science honours coursework
+SCI4220 Science honours coursework
+SCI4230 Science honours coursework
+SCI4240 Science honours coursework
+SCI4501 Impact through science 4A: Research
+SCI4502 Impact through science 4B: Professional practice
+STA1010 Statistical methods for science
+SWM3127 Foundations for family violence practice
+TRC3200 Dynamical systems
+TRC3500 Sensors and artificial perception
+TRC4407 Automation design project
+TRC4800 Robotics

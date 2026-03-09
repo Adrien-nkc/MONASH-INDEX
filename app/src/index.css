@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-monash-blue: #006dae;
+  --color-monash-dark: #0d1b2a;
+  --color-monash-accent: #00a3e0;
+  --font-family-sans: "DM Sans", sans-serif;
+  --font-family-serif: "DM Serif Display", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
