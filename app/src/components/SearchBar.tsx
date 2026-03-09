@@ -7,25 +7,25 @@ interface Props {
 
 export default function SearchBar({ value, onChange }: Props) {
   return (
-    <div className="relative">
-      <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
+    <div className="relative w-full">
+      <Search size={20} className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" strokeWidth={2.5} />
       <input
         type="text"
         value={value}
         onChange={e => onChange(e.target.value)}
         placeholder="Search degrees, majors, specialisations…"
-        className="w-full pl-8 pr-8 py-2.5 rounded-xl border border-slate-200 dark:border-slate-600
-          bg-white dark:bg-slate-800 text-sm text-slate-700 dark:text-slate-200
-          placeholder-slate-400 dark:placeholder-slate-500
-          focus:outline-none focus:ring-2 focus:ring-monash-blue/40 focus:border-monash-blue/60
+        className="w-full pl-12 pr-12 py-4 rounded-full border-none
+          bg-white text-base text-gray-800
+          placeholder-gray-400
+          focus:outline-none focus:ring-0
           transition-all"
       />
       {value && (
         <button
           onClick={() => onChange('')}
-          className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+          className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors"
         >
-          <X size={14} />
+          <X size={20} />
         </button>
       )}
     </div>

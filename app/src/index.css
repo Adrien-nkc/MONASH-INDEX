@@ -4,9 +4,10 @@
 
 @theme {
   --color-monash-blue: #006dae;
-  --color-monash-dark: #0d1b2a;
+  --color-monash-dark: #001c3d;
+  --color-monash-black: #000000;
   --color-monash-accent: #00a3e0;
-  --font-family-sans: "DM Sans", sans-serif;
+  --font-family-sans: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-family-serif: "DM Serif Display", serif;
 }
 
@@ -24,4 +25,8 @@ body {
 .scrollbar-hide {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+.slanted-divider {
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
